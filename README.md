@@ -74,10 +74,21 @@ Als gedreven en leergierige IT-student bijt ik me graag vast in nieuwe uitdaging
   *Focus:* Systeem- en Netwerkbeheer, IT Infrastructure Engineering.
 * 🏫 **Middelbaar diploma Netwerken & Informatica** — *Sint-Maartensinstituut* *(2021 - 2023)*
 
-**Recente Certificaten:**
-* ☁️ **IBM** — Cloud Computing Fundamentals & Getting Started with AI *(Jun 2026)*
-* 🖥️ **IBM** — IBM Z Xplore Advanced & Concepts *(Mrt 2026 / Feb 2026)*
-* 🛡️ **IBM SkillsBuild** — Getting Started with Cybersecurity *(Mei 2025)*
+**📜 Licenties & Certificaten:**
+
+[![Credly](https://img.shields.io/badge/Credly-Bekijk_mijn_geverifieerde_badges-F66100?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joran-van-goethem)
+
+* ☁️ **Cloud Computing Fundamentals** — *IBM* *(Jun 2026)*
+  * *Skills:* Cloud Infrastructure, Cloud Migration, Cloud Security.
+* 🤖 **Getting Started with Artificial Intelligence** — *IBM* *(Jun 2026)*
+  * *Skills:* Generative AI, Reinforcement Learning, Unsupervised Learning.
+* 🖥️ **IBM Z Xplore - Advanced** — *IBM* *(Mrt 2026)*
+  * *Skills:* Ansible, Docker, Linux, COBOL, IBM Db2, IBM Z.
+* ⚙️ **IBM Z Xplore - Concepts** — *IBM* *(Feb 2026)*
+  * *Skills:* Bash, Python, z/OS, JCL, MVS Commands.
+* 🛡️ **Getting Started with Cybersecurity** — *IBM* *(Mei 2025)*
+  * *Skills:* Cybersecurity, Data Privacy, Data Security, Malware Protection.
+* 🏢 **Bedrijfsbeheer en administratieve diensten** — *Sint-Maartensinstituut* *(Jun 2022)*
 
 ---
 
