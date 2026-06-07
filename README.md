@@ -40,8 +40,8 @@ Als gedreven en leergierige IT-student bijt ik me graag vast in nieuwe uitdaging
 ### 📈 GitHub Statistieken
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[JOUW-GITHUB-NAAM]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[JOUW-GITHUB-NAAM]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoranVanGoethem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoranVanGoethem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="150" alt="Top Languages" />
 </div>
 
 ---
